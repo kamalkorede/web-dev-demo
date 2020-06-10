@@ -1,0 +1,33 @@
+body,html{
+    background: blanchedalmond;
+}
+nav{
+width: 27.5rem;
+color:brown;
+}
+
+a {
+    color:brown;
+}
+img{
+    width: 400px;
+    border: 5px solid brown;
+    padding: 5px;
+}
+
+article{
+    margin-left: 40px;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    width: 27.5rem;
+}
+
+h2{
+    background: brown;
+    padding-left: 2em;
+    width: 5em;
+    color: white;
+}
